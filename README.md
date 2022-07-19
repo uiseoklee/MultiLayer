@@ -1,4 +1,4 @@
-# MultiLayer 프로젝트 파일 구성
+# Simple_MultiLayer 프로젝트 파일 구성
 1. utils.py
    간단한 다층 신경망을 만드는데 필요한 클래스들이 있습니다.
    
